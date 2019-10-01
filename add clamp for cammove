@@ -1,0 +1,3 @@
+mouseLook.y = Mathf.Clamp(mouseLook.y, -90f, 90f);
+
+//this will be bellow "mouseLook += smoothV;"
