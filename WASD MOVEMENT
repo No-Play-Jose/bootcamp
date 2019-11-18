@@ -2,7 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CharacterControler : MonoBehaviour { 
+public class CharacterControler : MonoBehaviour
+{
 
     public float speed = 10.0F;
 
@@ -24,5 +25,9 @@ public class CharacterControler : MonoBehaviour {
 
         if (Input.GetKeyDown("escape"))
             Cursor.lockState = CursorLockMode.None;
+
+
+        
+            
     }
 }
