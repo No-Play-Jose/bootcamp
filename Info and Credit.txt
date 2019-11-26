@@ -1,0 +1,20 @@
+AUDIO
+
+Military sounds - https://freesound.org/people/juskiddink/sounds/64647/
+M4 Carbine sounds - https://freesound.org/people/tehlordoswag420/sounds/197025/
+Pistol sounds - https://freesound.org/people/morganpurkis/sounds/371440/
+Shotgun sounds - https://freesound.org/people/Marregheriti/sounds/266105/
+
+ASSETS
+
+Modern Weapon Set - Devassets - http://devassets.com/assets/modern-weapons/
+Particle Effects - Kenney - https://www.kenney.nl/assets/particle-pack
+Targets - cgtrader - https://www.cgtrader.com/free-3d-models/furniture/other/free-shoot-target
+Wispy Sky - Unity Store - https://assetstore.unity.com/packages/2d/textures-materials/sky/wispy-skybox-21737
+Low Poly Props Park - Unity Store - https://assetstore.unity.com/packages/3d/props/industrial/low-poly-props-pack-53751
+Basement And Sewerage Modular Location - Unity Store - https://assetstore.unity.com/packages/3d/environments/urban/basement-and-sewerage-modular-location-121248 
+Score System Starter Kit - Unity Store - https://assetstore.unity.com/packages/tools/score-system-starter-kit-63365
+
+MATERIALS
+
+Yughues Free Concrete Materials - Unity Store - https://assetstore.unity.com/packages/2d/textures-materials/concrete/yughues-free-concrete-materials-12951
